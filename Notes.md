@@ -11,7 +11,7 @@
 - [x] dizaino analize
 - [x] surasyti html
 - [ ] issikirpti nuotraukas ir jas panaudoti
-    - panaudoti reliatyvu kelia
+    - panaudoti reliatyvu kelia  ./  zyma
     - png formatas, del permatomumo savybes (jpg negali to)
 - [ ] aprasyti stiliu:
     - turinys turi buti centre
