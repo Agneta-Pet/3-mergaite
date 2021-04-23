@@ -9,7 +9,7 @@
   - iterpiti nuoroda i daroma dizaina 
   - iterpti nuoroda kur musu kodas gali buti pamatytas
 - [x] dizaino analize
-- [ ] surasyti html
+- [x] surasyti html
 - [ ] issikirpti nuotraukas ir jas panaudoti
     - panaudoti reliatyvu kelia
     - png formatas, del permatomumo savybes (jpg negali to)
@@ -25,3 +25,12 @@
 
 apie cia naudojama rasymo sintakse
 https://guides.github.com/features/mastering-markdown/
+
+
+# Paint.net naudojimas
+
+Norint iskirpti fona:
+1. Magic wand-->tolerance
+2. ctrl+i
+3. ctrl+shift+x
+4. ctrl+s
