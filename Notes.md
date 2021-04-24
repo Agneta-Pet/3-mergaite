@@ -18,10 +18,14 @@
     - pagrindinis plotis turi buti fiksuotas (px)
     - stiliu (CSS) atskirti nuo HTML
 
+# HTML rasymo strategija
+1. israsyti tik imanoma, isivaizduojama HTML
+2. issirasyti CSS selektorius (selector)
+3. pradedama nuo labiausiai tevinio (is virsaus i apacia) selektoriaus, surasome reikiamus stilius
+4. REPEAT - go to step 1
 
 
-
-#Pasiskaitymui
+# Pasiskaitymui
 
 apie cia naudojama rasymo sintakse
 https://guides.github.com/features/mastering-markdown/
